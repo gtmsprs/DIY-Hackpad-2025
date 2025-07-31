@@ -14,9 +14,12 @@ the correct footprints, I was able to get to work and finally wire up my PCB. Th
 guidelines and you can connect all of the wires without any problems. One thing that I was able to grasp surprisingly quickly was how I was able to learn how to use front and back side wires. Once I was finished, I added some text and added it to the side of my PCB.  
 Finally, I was able to take a screenshot and extract a Gerber file, and now my PCB is shipment-ready!
 
-<img width="625" height="587" alt="Screenshot 2025-07-31 024634" src="https://github.com/user-attachments/assets/fbf74750-0402-47ee-a887-d6eed6273c84" />
-<img width="555" height="695" alt="Screenshot 2025-07-31 024608" src="https://github.com/user-attachments/assets/975ab337-dde6-4ec5-ba24-e84185b70b17" />
-<img width="1724" height="928" alt="Screenshot 2025-07-31 024550" src="https://github.com/user-attachments/assets/5371630f-f6b5-4199-90ed-df1c6bee6c5c" />
+
+<img width="625" height="587" alt="Screenshot 2025-07-31 024634" src="https://github.com/user-attachments/assets/fbf74750-0402-47ee-a887-d6eed6273c84" /> <img width="555" height="695" alt="Screenshot 2025-07-31 024608" src="https://github.com/user-attachments/assets/975ab337-dde6-4ec5-ba24-e84185b70b17" />
+<img width="1724" height="928" alt="Screenshot 2025-07-31 024550" src="https://github.com/user-attachments/assets/5371630f-f6b5-4199-90ed-df1c6bee6c5c" /> <img width="777" height="743" alt="image" src="https://github.com/user-attachments/assets/911dc2a3-a454-4521-9a18-26ebcd315edb" />
+
+
+
 
 After struggling for nearly a month, I realized that all I needed was a simple tutorial to start making my PCB. After I created this hackpad, I realized that creating PCBs is simple; you just need the right tutorial. I'd highly recommend making a hackpad to anyone out there
 who wants to make their PCB because I was able to learn so much, from uploading the footprint and symbols, to making the schematic, and learning to wire your PCB. It may have been a simple project, but just by sitting down and learning to create this simple PCB, you're able
